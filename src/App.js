@@ -100,7 +100,7 @@ class App extends React.Component{
   onButtonClick=()=>{
     this.setState({imageURL:this.state.input})
     
-    fetch("http://localhost:3000/imageUrl",{
+    fetch("https://blooming-beach-98498.herokuapp.com/imageUrl",{
       method :'post',
       headers:{
         'Content-Type':'application/json'
@@ -114,7 +114,7 @@ class App extends React.Component{
       })
       .then((response)=>{
           if(response){
-            fetch("http://localhost:3000/image",{
+            fetch("https://blooming-beach-98498.herokuapp.com/image",{
               method:'put',
               headers:{
                 'Content-Type':'application/json'
