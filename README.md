@@ -12,11 +12,11 @@ The web application is built with Nodejs, Expressjs and PostgreSQL database to r
 
 
 # Technologies Used :
-## FrontEnd :
+## FrontEnd : https://github.com/Lmath2001/DetectFace-frontend
 1. HTML, CSS and JavaScript
 2. React
 
-## Backend :
+## Backend : https://github.com/Lmath2001/DetectFace-backend
 1. Node.js
 2. Express.js
 3. PostgreSQL
@@ -24,8 +24,12 @@ The web application is built with Nodejs, Expressjs and PostgreSQL database to r
 ## API :
 1. Clarifai
 
-## Deplpoyment
+## Deplpoyment  
 1. Heroku
+
+## View the whole web app at https://detect-multiple-faces.herokuapp.com/
+
+
 
 
 
