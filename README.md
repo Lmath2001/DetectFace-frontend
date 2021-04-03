@@ -27,13 +27,12 @@ The web application is built with Nodejs, Expressjs and PostgreSQL database to r
 ## NPM Packages:
 1. Create-React-App
 2. Tachyons
-3. react-tilt
-4. particles.js
-5. Bcrypt
-6. Postgresql
-7. knex
-8. cors
-9. express
+3. particles.js
+4. Bcrypt
+5. Postgresql
+6. knex
+7. cors
+8. express
 
 ## Deployment  
 1. Heroku
